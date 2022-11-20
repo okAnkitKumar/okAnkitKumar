@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okAnkitKumar
 - 👀 I’m interested in Graphic Designing
-- 🌱 I’m currently learning Photoshop
+- 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me: pickaxepy@gmail.com
 
 <!---
